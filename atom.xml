@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>mampit</title>
   <link href="https://btopro.github.io/mampit/atom.xml" rel="self" />
-  <subtitle></subtitle>
+  <subtitle>another test</subtitle>
   <updated>2019-03-26T17:46:42+00:00</updated>
   <author>
       <name></name>

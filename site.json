@@ -10,9 +10,9 @@
         "created": 1553622402,
         "updated": 1553622402,
         "theme": {
-            "element": "haxcms-custom-theme",
-            "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-custom-theme.js",
-            "name": "Custom theme"
+            "element": "haxcms-basic-theme",
+            "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-basic-theme.js",
+            "name": "basic theme"
         },
         "image": "assets\/banner.jpg",
         "hexCode": "#aeff00",
@@ -74,9 +74,18 @@
             "description": "",
             "metadata": {
                 "created": 1553622402,
-                "updated": 1553622402
+                "updated": 1553622402,
+                "files": [
+                    {
+                        "path": "\/Applications\/MAMP\/htdocs\/_sites\/mampit\/files\/IMG_20181228_113330.jpg",
+                        "fullUrl": "\/_sites\/mampit\/files\/IMG_20181228_113330.jpg",
+                        "url": "files\/IMG_20181228_113330.jpg",
+                        "type": "image\/jpeg",
+                        "name": "IMG_20181228_113330.jpg",
+                        "size": 63981
+                    }
+                ]
             }
         }
-    ],
-    "location": "\/_sites\/mampit\/index.html"
+    ]
 }
