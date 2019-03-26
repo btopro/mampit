@@ -61,7 +61,8 @@
             "video-player": "@lrnwebcomponents\/video-player\/video-player.js",
             "wave-player": "@lrnwebcomponents\/wave-player\/wave-player.js",
             "wikipedia-query": "@lrnwebcomponents\/wikipedia-query\/wikipedia-query.js"
-        }
+        },
+        "lastPublished": 1553623580
     },
     "items": [
         {
