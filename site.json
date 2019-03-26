@@ -8,7 +8,7 @@
         "siteName": "mampit",
         "domain": "",
         "created": 1553622402,
-        "updated": 1553622691,
+        "updated": 1553622714,
         "theme": {
             "element": "haxcms-basic-theme",
             "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-basic-theme.js",
@@ -70,11 +70,11 @@
             "location": "pages\/item-8405e71d-7ad0-4ef1-ae94-f7b9c9e06c64\/index.html",
             "order": 0,
             "parent": null,
-            "title": "New page",
+            "title": "stuff and things",
             "description": "Le'go my LegoEx uno Plures",
             "metadata": {
                 "created": 1553622402,
-                "updated": 1553622623,
+                "updated": 1553622714,
                 "files": [
                     {
                         "path": "\/Applications\/MAMP\/htdocs\/_sites\/mampit\/files\/IMG_20181228_113330.jpg",
@@ -85,6 +85,58 @@
                         "size": 63981
                     }
                 ]
+            }
+        },
+        {
+            "id": "item-4d49a2ee-5a54-4cc6-b132-a86b95cc31fa",
+            "indent": 0,
+            "location": "pages\/\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "",
+            "description": "",
+            "metadata": {
+                "created": 1553622714,
+                "updated": 1553622714
+            }
+        },
+        {
+            "id": "item-2c3e4fc6-628b-409c-9105-07953ece5811",
+            "indent": 0,
+            "location": "pages\/new-pag\/index.html",
+            "order": 1,
+            "parent": null,
+            "title": "New pag",
+            "description": "",
+            "metadata": {
+                "created": 1553622714,
+                "updated": 1553622714
+            }
+        },
+        {
+            "id": "item-50b3c63e-c658-4e22-9d7e-8f54a47c2867",
+            "indent": 0,
+            "location": "pages\/e\/index.html",
+            "order": 2,
+            "parent": null,
+            "title": "e",
+            "description": "",
+            "metadata": {
+                "created": 1553622714,
+                "updated": 1553622714
+            }
+        },
+        {
+            "id": "item-ce01783b-8992-4008-ba62-b80120a440f4",
+            "indent": 0,
+            "location": "pages\/some-more\/index.html",
+            "order": 3,
+            "parent": null,
+            "title": "some more",
+            "description": "",
+            "metadata": {
+                "created": 1553622714,
+                "updated": 1553622714
             }
         }
     ]

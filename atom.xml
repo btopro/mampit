@@ -1,23 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>mampit</title>
-  <link href="https://btopro.github.io/mampit/atom.xml" rel="self" />
+  <link href="/atom.xml" rel="self" />
   <subtitle>another test</subtitle>
-  <updated>2019-03-26T17:46:42+00:00</updated>
+  <updated>2019-03-26T17:51:31+00:00</updated>
   <author>
       <name></name>
   </author>
-  <id>https://btopro.github.io/mampit/feed</id>
+  <id>/feed</id>
   <entry>
-    <title>New page</title>
-    <id>https://btopro.github.io/mampit/item-8405e71d-7ad0-4ef1-ae94-f7b9c9e06c64</id>
-    <updated>2019-03-26T17:50:23+00:00</updated>
+    <title>stuff and things</title>
+    <id>/item-8405e71d-7ad0-4ef1-ae94-f7b9c9e06c64</id>
+    <updated>2019-03-26T17:51:54+00:00</updated>
     <published>2019-03-26T17:46:42+00:00</published>
     <summary>Le'go my LegoEx uno Plures</summary>
-    <link href="https://btopro.github.io/mampit/item-8405e71d-7ad0-4ef1-ae94-f7b9c9e06c64"/>
+    <link href="/item-8405e71d-7ad0-4ef1-ae94-f7b9c9e06c64"/>
     
     <content type="html">
       <![CDATA[ Le'go my LegoEx uno Plures ]]>
+    </content>
+  </entry>
+  <entry>
+    <title></title>
+    <id>/</id>
+    <updated>2019-03-26T17:51:54+00:00</updated>
+    <published>2019-03-26T17:51:54+00:00</published>
+    <summary></summary>
+    <link href="/"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
     </content>
   </entry>
 </feed>
