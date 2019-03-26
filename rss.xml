@@ -6,13 +6,13 @@
     <description>another test</description>
     <copyright>Copyright (C) 2019 </copyright>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Mar 2019 17:51:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2019 17:51:54 +0000</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>stuff and things</title>
       <link>/item-8405e71d-7ad0-4ef1-ae94-f7b9c9e06c64</link>
       <description>
-          <![CDATA[ Le'go my LegoEx uno Plures ]]>
+          <![CDATA[ Ex uno Plures ]]>
       </description>
       <category></category>
       <guid>/item-8405e71d-7ad0-4ef1-ae94-f7b9c9e06c64</guid>
@@ -26,6 +26,36 @@
       </description>
       <category></category>
       <guid>/</guid>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New pag</title>
+      <link>/new-pag</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/new-pag</guid>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>e</title>
+      <link>/e</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/e</guid>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>some more</title>
+      <link>/some-more</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/some-more</guid>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
     </item>
   </channel>
