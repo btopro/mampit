@@ -62,7 +62,7 @@
             "wave-player": "@lrnwebcomponents\/wave-player\/wave-player.js",
             "wikipedia-query": "@lrnwebcomponents\/wikipedia-query\/wikipedia-query.js"
         },
-        "lastPublished": 1553623923
+        "lastPublished": 1553624157
     },
     "items": [
         {
@@ -86,19 +86,6 @@
                         "size": 63981
                     }
                 ]
-            }
-        },
-        {
-            "id": "item-4d49a2ee-5a54-4cc6-b132-a86b95cc31fa",
-            "indent": 0,
-            "location": "pages\/\/index.html",
-            "order": 0,
-            "parent": null,
-            "title": "",
-            "description": "",
-            "metadata": {
-                "created": 1553622714,
-                "updated": 1553622714
             }
         },
         {
