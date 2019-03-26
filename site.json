@@ -6,17 +6,17 @@
     "license": "by-sa",
     "metadata": {
         "siteName": "mampit",
-        "domain": "https:\/\/btopro.github.io\/mampit",
+        "domain": "",
         "created": 1553622402,
-        "updated": 1553622402,
+        "updated": 1553622665,
         "theme": {
             "element": "haxcms-basic-theme",
             "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-basic-theme.js",
-            "name": "basic theme"
+            "name": "Basic site"
         },
         "image": "assets\/banner.jpg",
         "hexCode": "#aeff00",
-        "cssVariable": "pink",
+        "cssVariable": "deep-orange",
         "publishing": {
             "git": {
                 "vendor": "github",
