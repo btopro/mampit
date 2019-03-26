@@ -1,0 +1,82 @@
+{
+    "id": "d10103c1-b704-4f31-93da-9862239e17a6",
+    "title": "mampit",
+    "author": "",
+    "description": "another test",
+    "license": "by-sa",
+    "metadata": {
+        "siteName": "mampit",
+        "domain": "https:\/\/btopro.github.io\/mampit",
+        "created": 1553622402,
+        "updated": 1553622402,
+        "theme": {
+            "element": "haxcms-custom-theme",
+            "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-custom-theme.js",
+            "name": "Custom theme"
+        },
+        "image": "assets\/banner.jpg",
+        "hexCode": "#aeff00",
+        "cssVariable": "pink",
+        "publishing": {
+            "git": {
+                "vendor": "github",
+                "branch": "gh-pages",
+                "git": {
+                    "vendor": "github",
+                    "branch": "gh-pages"
+                },
+                "url": "git@github.com:btopro\/mampit.git",
+                "cdn": "cdn.waxam.io"
+            }
+        },
+        "dynamicElementLoader": {
+            "a11y-gif-player": "@lrnwebcomponents\/a11y-gif-player\/a11y-gif-player.js",
+            "citation-element": "@lrnwebcomponents\/citation-element\/citation-element.js",
+            "hero-banner": "@lrnwebcomponents\/hero-banner\/hero-banner.js",
+            "image-compare-slider": "@lrnwebcomponents\/image-compare-slider\/image-compare-slider.js",
+            "license-element": "@lrnwebcomponents\/license-element\/license-element.js",
+            "lrn-aside": "@lrnwebcomponents\/lrn-aside\/lrn-aside.js",
+            "lrn-calendar": "@lrnwebcomponents\/lrn-calendar\/lrn-calendar.js",
+            "lrn-math": "@lrnwebcomponents\/lrn-math\/lrn-math.js",
+            "lrn-table": "@lrnwebcomponents\/lrn-table\/lrn-table.js",
+            "lrn-vocab": "@lrnwebcomponents\/lrn-vocab\/lrn-vocab.js",
+            "lrndesign-blockquote": "@lrnwebcomponents\/lrndesign-blockquote\/lrndesign-blockquote.js",
+            "magazine-cover": "@lrnwebcomponents\/magazine-cover\/magazine-cover.js",
+            "media-behaviors": "@lrnwebcomponents\/media-behaviors\/media-behaviors.js",
+            "media-image": "@lrnwebcomponents\/media-image\/media-image.js",
+            "meme-maker": "@lrnwebcomponents\/meme-maker\/meme-maker.js",
+            "grid-plate": "@lrnwebcomponents\/grid-plate\/grid-plate.js",
+            "md-block": "@lrnwebcomponents\/md-block\/md-block.js",
+            "multiple-choice": "@lrnwebcomponents\/multiple-choice\/multiple-choice.js",
+            "paper-audio-player": "@lrnwebcomponents\/paper-audio-player\/paper-audio-player.js",
+            "person-testimonial": "@lrnwebcomponents\/person-testimonial\/person-testimonial.js",
+            "place-holder": "@lrnwebcomponents\/place-holder\/place-holder.js",
+            "q-r": "@lrnwebcomponents\/q-r\/q-r.js",
+            "full-width-image": "@lrnwebcomponents\/full-width-image\/full-width-image.js",
+            "self-check": "@lrnwebcomponents\/self-check\/self-check.js",
+            "simple-concept-network": "@lrnwebcomponents\/simple-concept-network\/simple-concept-network.js",
+            "stop-note": "@lrnwebcomponents\/stop-note\/stop-note.js",
+            "tab-list": "@lrnwebcomponents\/tab-list\/tab-list.js",
+            "task-list": "@lrnwebcomponents\/task-list\/task-list.js",
+            "video-player": "@lrnwebcomponents\/video-player\/video-player.js",
+            "wave-player": "@lrnwebcomponents\/wave-player\/wave-player.js",
+            "wikipedia-query": "@lrnwebcomponents\/wikipedia-query\/wikipedia-query.js"
+        }
+    },
+    "items": [
+        {
+            "id": "item-8405e71d-7ad0-4ef1-ae94-f7b9c9e06c64",
+            "indent": 0,
+            "location": "pages\/item-8405e71d-7ad0-4ef1-ae94-f7b9c9e06c64\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "New page",
+            "description": "",
+            "metadata": {
+                "created": 1553622402,
+                "updated": 1553622402
+            }
+        }
+    ],
+    "location": "\/_sites\/mampit\/index.html"
+}
