@@ -8,7 +8,7 @@
         "siteName": "mampit",
         "domain": "",
         "created": 1553622402,
-        "updated": 1553622665,
+        "updated": 1553622691,
         "theme": {
             "element": "haxcms-basic-theme",
             "path": "@lrnwebcomponents\/haxcms-elements\/lib\/core\/themes\/haxcms-basic-theme.js",
